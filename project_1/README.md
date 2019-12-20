@@ -9,8 +9,8 @@ Our analysis will contain:
 - Jupyter notebooks
 
 ---
-
-The analysis will look for correlations in the data and make inferences to ensure that any hypothesis is true
+### Problem Statement
+There is a low participation for SAT exam as compared to ACT, the analysis will look for correlations in the data and make inferences to ensure that any hypothesis is true
 
 ---
 
@@ -43,3 +43,4 @@ For this project, there have four datasets:
 
 #### References
 https://blog.prepscholar.com/act-vs-sat
+https://blog.prepscholar.com/new-sat-vs-old-sat-quick-summary
