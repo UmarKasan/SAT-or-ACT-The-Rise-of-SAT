@@ -1,4 +1,4 @@
-# PROJECT1:Data Analysis of SAT & ACT of 2017 & 2018
+# Data Analysis of SAT & ACT of 2017 & 2018
 
 ### Overview
 
